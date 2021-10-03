@@ -3,5 +3,38 @@
     align-items: center;
     justify-content: space-around;
     background-color: red;
-     
+}
+.title-results{
+    font-family: Verdana, Arial, sans-serif;
+    color: #333;
+    font-size: 13px;   
+    width: 100%;
+}
+.title-results h3{
+    color:rgb(255, 223, 89);
+}
+    
+
+.primary_photo img{
+    height: 40px;
+    width: 40px;
+    
+}
+
+.odd {
+    background-color: #f6f6f5;
+    border: #fff 1px solid;
+}
+
+.even {
+    background-color: #fbfbfb;
+    border: #fff 1px solid;
+}
+
+div.findToggleExact {
+    float: right;
+}
+
+.title-search-result-list{
+    width: 100%;
 }

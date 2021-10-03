@@ -1,3 +1,35 @@
 .body{
-    background-color: salmon;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.search-result-body{
+    width: 1008px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    /* 
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0) 7px);
+    background-color: rgb(24, 26, 27);
+    background-repeat: no-repeat;
+    background-size: 100% 7px;
+    background-color: #FFF;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: -1px;
+    margin-bottom: -17px; */
+}
+
+.article {
+    border-color: rgb(54, 59, 61);
+    background-color: rgb(24, 26, 27);
+    
+}
+
+.article {
+    border-radius: 12px;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 7px;
+    padding: 10px 12px;
+    background-color: #FFFFFF;
 }
